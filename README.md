@@ -14,7 +14,7 @@ Let's connect and collaborate! Feel free to reach me out on [Instagram](https://
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gelaws-hub&layout=compact&langs_count=8&theme=radical"/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gelaws-hub&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gelaws-hub&theme=radical)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=gelaws-hub)
 </div>
