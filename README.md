@@ -4,7 +4,7 @@ I'm Ibnu Fadhil. Currently pursuing degree as a Computer Engineering Student.
 
 I'm always eager to contribute and collaborate on projects that challenge me and broaden my skills. Let's team up and build something cool together!
 
-Let's connect and collaborate! Feel free to reach me out on [Instagram](https://www.instagram.com/) or [LinkedIn](https://www.linkedin.com/).
+Let's connect and collaborate! Feel free to reach me out on [Instagram](https://www.instagram.com/ibnu_fadhil22/) or [LinkedIn](https://www.linkedin.com/in/muhamad-ibnu-fadhil/).
 
 
 <div align="center">
